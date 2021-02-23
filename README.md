@@ -34,7 +34,6 @@ MonoBehaviour:
       m_weight: 0.1
       m_value: 5
       m_teleportable: 1
-      ...
 ```
 
 ↓
@@ -59,7 +58,6 @@ MonoBehaviour:
       "weight": 0.1,
       "value": 5,
       "teleportable": 1,
-      ...
 ```
 
 You will need `_id` in the recipes.
